@@ -1,7 +1,7 @@
 # yo pierdole - A Discord Bot
 
 ## Features
-Counts how many 'ja pierdole' has been sent by your mates on text chat!
+Counts how many 'ja pierdole' has been sent by your mates on text chat!  
 So far, the bot supports only works properly on one server at a time.
 
 ## TODO
