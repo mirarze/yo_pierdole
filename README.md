@@ -13,7 +13,6 @@ So far, the bot supports only works properly on one server at a time.
 - Discord Application
 - Bot token
 - disord.py module
-- pytz module
 
 ## Running
 Pass your token as a command-line argument or hard-code your token.

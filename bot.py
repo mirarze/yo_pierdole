@@ -1,4 +1,3 @@
-from pytz import timezone
 import discord
 
 clear_command = 'kliruj kurwo pierdolona'
