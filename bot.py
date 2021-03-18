@@ -43,6 +43,7 @@ class Bot(discord.Client):
         for key, char in swap_chars.items():
             content = message.content.replace(key, char)
 
+        # Some letter were still uppercase despite calling .lower()
         if ('japierdole' in content.lower()) or ('ja' in content.lower() and 'pierdole' in content.lower()):
             return True
 
